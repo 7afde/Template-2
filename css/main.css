@@ -15,7 +15,7 @@ html {
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: black;
+    background-color: white;
 }
 ul {
     list-style: none;
@@ -241,4 +241,5 @@ header .container nav .form i {
     background-color: var(--primary-color);
     border-color: var(--primary-color);
 }
+
 /* End Landing */
